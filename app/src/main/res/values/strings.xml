@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiliFood</string>
+    <string name="user">我的</string>
+    <string name="after">餐后评价</string>
+    <string name="before">餐前指导</string>
+    <string name="home">首页</string>
+</resources>
